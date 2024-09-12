@@ -40,6 +40,7 @@ A simple implementation of the classic "Rock, Paper, Scissors" game in Java. Thi
 - Introduce more game modes (e.g., multiplayer)
 - Add detailed game statistics and analytics
 
-## Note 
-Feel Free to Contact at Instagram: https://www.instagram.com/officialsomeshchinkusingh?igsh=MW1vdTZwbDdmMTZxbw==
+---
+
+*Note: Feel Free to Contact at Instagram: https://www.instagram.com/officialsomeshchinkusingh?igsh=MW1vdTZwbDdmMTZxbw==*
 
